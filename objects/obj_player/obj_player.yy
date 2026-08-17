@@ -38,6 +38,9 @@
     "name":"spr_friskwd",
     "path":"sprites/spr_friskwd/spr_friskwd.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_friskwd",
+    "path":"sprites/spr_friskwd/spr_friskwd.yy",
+  },
   "visible":true,
 }
